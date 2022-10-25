@@ -4,9 +4,13 @@ const fs = require("fs");
 const path = require("path");
 const database = require("./db/db.json")
 
+
+
 // Initialise express app 
 const app = express();
 const PORT = process.env.PORT || 3001;
+
+
 
 // Linking to assets 
 app.use(express.static('public'));
@@ -26,6 +30,8 @@ app.get('/', function (req, res) {
 app.get("/notes", function (req, res) {
     res.sendFile(path.join(__dirname, "./public/notes.html"));
 })
+
+
 
 
 //NOTE CREATING SAVING AND DELETING 

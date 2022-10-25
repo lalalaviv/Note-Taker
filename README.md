@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# Note Taker
 
 ## Description
 When you have many things running in your mind and a million tasks to complete but don't want to miss any of them, this note taker application will help you organise and track things easily. 
