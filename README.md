@@ -27,14 +27,12 @@ This application is a note taker app that allow users to write and save notes an
   ```bash
   npm install
   ```
-
+[Express.js](https://expressjs.com/en/starter/installing.html)
 
 ## Usage
-  The application will be invoked by using the following command:
-
-  ```bash
-  node index.js
-  ```
+  Get started by clicking on the (Get Started) button on the homepage. 
+  You can add a note by typing on the right of the page in a title and the content area and save it by clicking on the (disk) icon on the top right-hand corner. 
+  Your notes will then be saved and displayed on the left side of the page. If you would like to delete your note, you can click on the (trash) icon next to the note and it will be removed. 
 
 
 ## Demonstration
