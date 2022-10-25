@@ -1,12 +1,18 @@
 # Note Taker
 
 ## Description
+---
 When you have many things running in your mind and a million tasks to complete but don't want to miss any of them, this note taker application will help you organise and track things easily. 
 
 This application is a note taker app that allow users to write and save notes and tasks by using Express.js, making creating, viewing and deleting notes a cinch. 
 
-# Table of Contents
+## Deployment Link
+---
+https://serene-waters-36380.herokuapp.com/
+
+## Table of Contents
   - [Description](#description)
+  - [Deployment Link](#deployment-link)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -17,7 +23,8 @@ This application is a note taker app that allow users to write and save notes an
   - [Questions](#questions)
   - [Credits](#credits)
 
-# Installation 
+## Installation 
+---
   Before attempting to use this application, you must have the follow programs installed to your computer: 
 
   - VS Code
@@ -30,13 +37,25 @@ This application is a note taker app that allow users to write and save notes an
 [Express.js](https://expressjs.com/en/starter/installing.html)
 
 ## Usage
+---
+ To use the application locally please clone the repo to your local environment.
+ <br/>
+ The application will be invoked by using the following command:
+
+  ```bash
+  node index.js
+  ```
+  Then in your preferred browser open  http://localhost:3000
+
+Once you are on th webpage: 
+<br/>
   Get started by clicking on the (Get Started) button on the homepage. 
   You can add a note by typing on the right of the page in a title and the content area and save it by clicking on the (disk) icon on the top right-hand corner. 
   Your notes will then be saved and displayed on the left side of the page. If you would like to delete your note, you can click on the (trash) icon next to the note and it will be removed. 
 
 
 ## Demonstration
-
+---
 The following images show the web application's appearance and functionality:
 
 ![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
@@ -45,6 +64,7 @@ The following images show the web application's appearance and functionality:
 
 
 ## License 
+---
   ![License](https://img.shields.io/github/license/lalalaviv/Note-Taker)
 
 
@@ -77,6 +97,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Questions
+---
   Feel free to reach out if you have any enquiries
   <br/>
   GitHub: [@lalalaviv](https://github.com/lalalaviv)
@@ -84,4 +105,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Credits
+---
   Vivian Lee
