@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "## Description When you have many things running in your mind and a million tasks to complete but don't want to miss any of them, this note taker application will help you organise and track things easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalalaviv/Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalalaviv/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/lalalaviv/Note-Taker#readme",
+  "dependencies": {
+    "express": "4.17"
+  }
+}

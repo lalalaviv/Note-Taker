@@ -21,16 +21,12 @@ This application is a note taker app that allow users to write and save notes an
   Before attempting to use this application, you must have the follow programs installed to your computer: 
 
   - VS Code
-  - GitBash
   - Node.js
   
-  In the terminal of VS Code please install the following packages: 
+  In the terminal of VS Code please install enter the following to install all dependencies: 
   ```bash
-  npm init -y
-  npm i fs
+  npm install
   ```
-
- - [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting user input
 
 
 ## Usage
@@ -51,7 +47,7 @@ The following images show the web application's appearance and functionality:
 
 
 ## License 
-  ![License](https://img.shields.io/github/license/lalalaviv/Team-Profile-Generator)
+  ![License](https://img.shields.io/github/license/lalalaviv/Note-Taker)
 
 
 ## User Story
